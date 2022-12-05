@@ -1,2 +1,2 @@
 #!/bin/bash
-less iacta | awk 'NR==25'
+awk 'NR==3' iacta
