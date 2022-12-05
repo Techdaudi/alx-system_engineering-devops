@@ -1,2 +1,2 @@
 #!/bin/bash
-Repo to practice using shebang\n
+Repo to practice using shebangn
