@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%s\n" {{a..n}{a..n},{p..z}{p..z}}
+printf "%s\n" {{a..n},{p..z}}{a..z}
