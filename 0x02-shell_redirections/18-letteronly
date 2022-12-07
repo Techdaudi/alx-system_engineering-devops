@@ -1,0 +1,2 @@
+#!/bin/bash
+grep '[^a-b][A-B]' /etc/ssh/sshd_config
