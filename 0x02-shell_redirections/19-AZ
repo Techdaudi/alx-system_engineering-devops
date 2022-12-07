@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $String | tr "Ac" "Ze"
+cat $String | tr 'Ac' 'Ze'
