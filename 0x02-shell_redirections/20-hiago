@@ -1,2 +1,2 @@
 #!/bin/bash
-cat string | tr -d 'cC'
+cat $string | tr -d 'cC'
