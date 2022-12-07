@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '[^a-bA-B]' /etc/ssh/sshd_config
+grep '^[[:alnum:]]' /etc/ssh/sshd_config
